@@ -1,7 +1,3 @@
-# Ejercicio 3: Suma de Números Pares e Impares Escribe un programa en Python que
-# solicite al usuario ingresar un número entero positivo. Luego, calcula y muestra
-# la suma de los números pares y la suma de los números impares desde 1 hasta el número ingresado.
-
 n1=float(input('cual es el numero 1 \n'))
 n2=float(input('cual es el numero 2 \n'))
 
